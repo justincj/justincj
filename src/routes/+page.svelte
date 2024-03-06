@@ -22,4 +22,12 @@ p {
     font-size: 1.2em;
     font-family:Arial, Helvetica, sans-serif
 }
+@media (max-width :600px) {
+    .content-wrapper {
+        /* background-color: grey; */
+        max-width: 100%;
+        margin:0 0.5rem;
+        padding:0;
+    }
+}
 </style>
