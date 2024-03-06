@@ -12,7 +12,7 @@
         /* flex-grow:0;
         flex-shrink: auto; */
         background:rgb(73, 57, 113);
-        padding: 12px;
+        padding: 8px;
     }
     .navbar ul {
         display:flex;
@@ -25,7 +25,7 @@
         list-style: none;
     }
     .nav {
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     /* .nav.push {

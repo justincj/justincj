@@ -1,16 +1,25 @@
 <div class="content-wrapper">
     <h2>About</h2>
-    <p>My name in justin george. I am an independent researcher and engineer</p>
+    <p>My name in justin george. I am an independent researcher and engineer. I focus on building full stack solution to challenging
+        problems.
+    </p>
 </div>
 <style>
 .content-wrapper {
-    margin-top:1.8rem;
+   padding:2em; 
     max-width: 80%;
     margin:0 auto;
+    /* text-align: center; */
 }
 
 h2 {
     text-align: center;
     text-transform: uppercase;
+    margin-bottom: 0.8em;
+}
+
+p {
+    font-size: 1.2em;
+    font-family:Arial, Helvetica, sans-serif
 }
 </style>
