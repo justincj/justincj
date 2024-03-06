@@ -9,13 +9,15 @@
 
 <style>
     .footer {
-        background-color: lightblue;
+        background-color: rgb(73, 57, 113);
     }
     .footer-links {
         list-style: none;
         display: flex;
         gap:16px;
         font-size: 1.4rem;
-        justify-content: space-around
+        justify-content: space-around;
+        color:white;
     }
+
 </style>

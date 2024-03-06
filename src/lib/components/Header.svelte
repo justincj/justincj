@@ -9,20 +9,17 @@
 
 <style>
     .navbar {
-        flex-grow:0;
-        flex-shrink: auto;
-        background:lightblue;
+        /* flex-grow:0;
+        flex-shrink: auto; */
+        background:rgb(73, 57, 113);
         padding: 12px;
     }
     .navbar ul {
         display:flex;
         gap:16px;
-        justify-content: space-evenly;
+        justify-content: space-around;
     }
 
-    .nav-container:last-child {
-        margin-right: 16px;
-    }
 
     .nav-container {
         list-style: none;
@@ -31,12 +28,12 @@
         font-size: 1.5rem;
     }
 
-    .nav.push {
+    /* .nav.push {
         margin-right: auto;
-    }
+    } */
     .nav a {
         text-decoration: none;
-        color:black;
+        color:white;
     }
     a:hover {
         color:orange
